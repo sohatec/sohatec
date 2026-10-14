@@ -5,14 +5,14 @@
 <h3 align="center">✨ Software Engineering ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 👨🏻‍🎓 I learned at **FPT University** 
 💻 I learn about **Backend Java**, **Frontend** and **BSCP**  
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 ### 🚀 Tech Stack 🚀
@@ -33,7 +33,7 @@ C, Java, Spring, SQL Server, HTML, CSS, JS, BSCP, Docker, Git.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 <p align="center">
