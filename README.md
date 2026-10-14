@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sohatec/SOHATEC/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/banner.jpg?raw=true" width="1200" height="300"/>
 </p>
 <h1 align="center">🎉 Welcome To SOHATEC's Profile 🎉</h1>
 <h3 align="center">✨ Software Engineering ✨</h3>
