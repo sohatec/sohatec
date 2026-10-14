@@ -22,7 +22,7 @@ C, Java, Spring Boot, SQL Server, HTML, CSS, JavaScript, Docker, Git, Tester.
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/Spring%20boot.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
