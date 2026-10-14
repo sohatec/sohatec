@@ -37,14 +37,14 @@ C, Java, Spring, SQL Server, HTML, CSS, JS, BSCP, Docker, Git.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/Yellowline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 📧 Email: [Click here to contact](mailto:info@sohatec.com)  
 💌 Email: info [at] sohatec [dot] com
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
+  <img src="https://github.com/sohatec/sohatec/blob/main/Yellowline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 <h3 align="center"> ⭐⭐ **Software - Hardware - Technology** ⭐⭐</h3>
