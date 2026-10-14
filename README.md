@@ -9,7 +9,7 @@
 </p>
 
 👨🏻‍🎓 I learned at **FPT University** 
-💻 I learn about **Backend Java**, **Frontend** and **BSCP**  
+💻 I learn about **Backend Java** - **Frontend** - **Application Security**
 
 <p align="center">
   <img src="https://github.com/sohatec/sohatec/blob/main/blueline.jpg?raw=true" width="1200" height="4"/>
@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack 🚀
 
-C, Java, Spring, SQL Server, HTML, CSS, JS, BSCP, Docker, Git.
+C, Java, Spring Boot, SQL Server, HTML, CSS, JavaScript, Docker, Git, Tester.
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
@@ -27,7 +27,6 @@ C, Java, Spring, SQL Server, HTML, CSS, JS, BSCP, Docker, Git.
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/sohatec/SOHATEC/blob/main/BurpSuite.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/sohatec/SOHATEC/blob/main/Docker.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
 </p>
